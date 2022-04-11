@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jaillonestee@gmail.com
+	name = estee jaillon
